@@ -1,0 +1,4 @@
+-pakeisti srifta
+-spalvos
+-limituoti teksto plota
+-fonas (spalva)
