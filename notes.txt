@@ -2,3 +2,4 @@
 -spalvos
 -limituoti teksto plota
 -fonas (spalva)
+-paviesinti
